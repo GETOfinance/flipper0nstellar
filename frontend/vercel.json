@@ -1,0 +1,13 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "env": {
+    "NEXT_PUBLIC_REGISTRY_CONTRACT_ID": "",
+    "NEXT_PUBLIC_VAULT_CONTRACT_ID": "",
+    "NEXT_PUBLIC_LOGGER_CONTRACT_ID": "",
+    "NEXT_PUBLIC_USDC_CONTRACT_ID": "CCW67TSZV3NSI4FS7FXTA6D3KQAJ5VW6UJRV3GSB7Q6Y2I3AIA7F6GCH"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "flipper",
+  "version": "1.0.0",
+  "description": "AI-Powered Autonomous DeFi Guardian Agent for Stellar",
+  "private": true,
+  "scripts": {
+    "compile:contracts": "cd contracts && cargo build --target wasm32-unknown-unknown --release",
+    "deploy:testnet": "ts-node scripts/deploy.ts",
+    "simulate": "cd agent && npx ts-node src/simulate.ts",
+    "frontend:dev": "cd frontend && npm run dev",
+    "frontend:build": "cd frontend && npm run build"
+  },
+  "dependencies": {
+    "@stellar/stellar-sdk": "^13.3.0",
+    "@x402/core": "^2.9.0",
+    "@x402/fetch": "^2.9.0",
+    "dotenv": "^16.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.3.0"
+  }
+}
