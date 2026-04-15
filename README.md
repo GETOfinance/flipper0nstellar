@@ -118,6 +118,19 @@ When no API key is configured, the engine falls back to rule-based heuristic ana
 
 ---
 
+### Deployed Contracts (Testnet)
+
+| Contract | Contract ID | Explorer |
+|----------|------------|----------|
+| FlipperRegistry | `CCC2TS24I5MSHTDJBH5MHVPRNBLPRL5RGDH7JYT2ABIFK26TKSSNYYNM` | [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CCC2TS24I5MSHTDJBH5MHVPRNBLPRL5RGDH7JYT2ABIFK26TKSSNYYNM) |
+| FlipperVault | `CA3G7CVT5B76T6BIRVX72GAYOL6ZNFDE5FF3KLJZK24YY3CJRJTXL5BD` | [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CA3G7CVT5B76T6BIRVX72GAYOL6ZNFDE5FF3KLJZK24YY3CJRJTXL5BD) |
+| DecisionLogger | `CAEQS573TRQCTN6SBZAMOKO3XAXKIJAOX3JBLXKMJZSNHR6KTJBUWC6D` | [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CAEQS573TRQCTN6SBZAMOKO3XAXKIJAOX3JBLXKMJZSNHR6KTJBUWC6D) |
+| X402Payment | `CAF5FOI7XMDGH4WRAQXNSABHT5LY5AHXMT65U7XCEOBLTVPQV5BSUHAL` | [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CAF5FOI7XMDGH4WRAQXNSABHT5LY5AHXMT65U7XCEOBLTVPQV5BSUHAL) |
+| USDC (SAC) | `CBIELTK6YBZJU5UP2WWQEUCYKLPU6AUNZ2BQ4WWFEIE3USCIHMXQDAMA` | [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CBIELTK6YBZJU5UP2WWQEUCYKLPU6AUNZ2BQ4WWFEIE3USCIHMXQDAMA) |
+| Native XLM (SAC) | `CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC` | [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC) |
+
+
+
 ## Quick Start
 
 ### Prerequisites
